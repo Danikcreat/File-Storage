@@ -12,7 +12,7 @@ GET для проверки файла с содержимым:
 ![alt text](img/scr3.png)
 
 PUT для добавления файла во вложенную папку:
-![alt text](img/scr4.png)
+![alt text](img/scr9.png)
 
 GET для проверки наличия новой папки:
 ![alt text](img/scr5.png)
